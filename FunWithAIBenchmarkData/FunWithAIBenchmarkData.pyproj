@@ -80,6 +80,7 @@
     <Content Include="dataPackage\MMLU\data\anatomy_test.csv" />
     <Content Include="dataPackage\MMLU\data\astronomy_test.csv" />
     <Content Include="dataPackage\MMLU\data\business_ethics_test.csv" />
+    <Content Include="dataPackage\MMLU\data\car_prices.csv" />
     <Content Include="dataPackage\MMLU\data\clinical_knowledge_test.csv" />
     <Content Include="dataPackage\MMLU\data\college_biology_test.csv" />
     <Content Include="dataPackage\MMLU\data\college_chemistry_test.csv" />
