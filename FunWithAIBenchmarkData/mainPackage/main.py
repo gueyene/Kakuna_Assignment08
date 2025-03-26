@@ -6,14 +6,6 @@ from readingLevelPackage.readingLevel import Reading_Level
 from utilitiesPackage.utilities import *
 from utilitiesPackage.CSV_Utilities import *
 from PDFPackage.PDFUtilities import *
-from logoPackage.logo import load_logo
-
-# Load the image
-image = load_logo()
-
-if image:
-    # Display the image using the default image viewer
-    image.show()
 
 if __name__ == "__main__":
 
